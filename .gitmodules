@@ -1,0 +1,4 @@
+[submodule "week1_baseballGame"]
+	path = week1_baseballGame
+	url = https://github.com/oxdjww/woowa-precourse-1.git
+	branch = main
