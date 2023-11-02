@@ -2,3 +2,7 @@
 	path = week1_baseballGame
 	url = https://github.com/oxdjww/woowa-precourse-1.git
 	branch = main
+[submodule "week2_racingCarGame"]
+	path = week2_racingCarGame
+	url = https://github.com/oxdjww/woowa-precourse-2.git
+	branch = main
