@@ -10,3 +10,11 @@
 	path = week3_lotto
 	url = https://github.com/oxdjww/woowa-precourse-3.git
 	branch = main
+[submodule "week4_lotto"]
+	path = week4_lotto
+	url = https://github.com/oxdjww/java-christmas-6-oxdjww
+	branch = main
+[submodule "week4_christmas"]
+	path = week4_christmas
+	url = https://github.com/oxdjww/java-christmas-6-oxdjww
+	branch = main
